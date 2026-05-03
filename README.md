@@ -11,7 +11,7 @@ Este proyecto nace de mi deseo de cambiar mi carrera profesional desde la electr
 * **GitHub Pages:** Para el despliegue (hosting).
 
 ## 🔗 Enlace al proyecto
-Puedes ver mi CV web en vivo aquí: [PEGA AQUÍ TU ENLACE DE GITHUB PAGES]
+Puedes ver mi CV web en vivo aquí: https://github.com/IAmTheLightbringer27
 
 ---
 *Aprendiendo y construyendo cada día.*
